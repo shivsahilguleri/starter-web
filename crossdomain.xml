@@ -6,6 +6,8 @@
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
 
+	
+	this is banch123
     <!-- Least restrictive policy: -->
     <!--
     <site-control permitted-cross-domain-policies="all"/>
