@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 MASTER
 
+=======
+demo123
+>>>>>>> demo123
 # starter web project
 this is a simple website
 new text
